@@ -57,5 +57,5 @@ pip install transformers accelerate peft bitsandbytes datasets trl
 - **Phi-3-mini**: Lightweight yet powerful instruct model from Microsoft.
 - **TinyLlama**: 1.1B parameter model optimized for efficiency.
 
----
-*Developed by Diya Pansheriya*
+
+
