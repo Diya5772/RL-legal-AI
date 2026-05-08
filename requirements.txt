@@ -1,0 +1,13 @@
+torch>=2.0.0,<3.0.0
+transformers>=4.30.0,<6.0.0
+datasets>=2.12.0
+accelerate>=0.20.0
+peft>=0.4.0
+bitsandbytes>=0.39.0
+trl>=0.4.7
+scikit-learn>=1.2.0
+numpy>=1.23.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+ipython
